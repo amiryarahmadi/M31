@@ -39,8 +39,6 @@ To compute correlations between CO and SFR:
 ## Contributions
 Contributions are welcome! If you have suggestions or encounter issues, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
 For questions or collaboration opportunities, please contact:
